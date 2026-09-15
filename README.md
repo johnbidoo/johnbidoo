@@ -6,16 +6,16 @@
 
 A self-directed home lab built to gain hands-on experience with network security, firewall configuration, and offensive/defensive security concepts — using real infrastructure rather than simulations.
 
-## 🚀 Overview
+##  Overview
 
 This lab is being built incrementally as I learn. The goal is to move from basic network segmentation and firewall management toward more advanced security testing, monitoring, and incident response practice — all in an isolated environment safe for experimentation.
 
-## 🧱 Current Setup
+## Current Setup
 
 - **OPNsense** — acting as the core firewall/router, used to configure network rules, segmentation, and traffic control
 - **Kali Linux** — deployed as a dedicated machine for exploring security tools and offensive techniques
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [ ] Configure VLANs to segment lab traffic (e.g. isolate a "victim" network from an "attacker" network)
 - [ ] Set up packet capture and analysis with Wireshark
@@ -29,12 +29,12 @@ This lab is being built incrementally as I learn. The goal is to move from basic
 
 *(Coming soon — will add OPNsense dashboard and network diagrams as the lab develops)*
 
-## 📚 What I'm Learning
+##  What I'm Learning
 
 - How firewalls enforce network boundaries and filter traffic
 - The fundamentals of network segmentation and why it matters for security
 - How offensive tools are used to find weaknesses, so I can better understand how to defend against them
 
-## 📄 Notes
+##  Notes
 
 This is an active, evolving project — the roadmap above will be updated as new components are added. Follow the repo for updates.
