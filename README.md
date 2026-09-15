@@ -25,7 +25,7 @@ This lab is being built incrementally as I learn. The goal is to move from basic
 - [ ] Document firewall rule sets and network diagrams
 - [ ] Add screenshots/diagrams of the lab topology to this README
 
-## 📸 Screenshots
+##  Screenshots
 
 *(Coming soon — will add OPNsense dashboard and network diagrams as the lab develops)*
 
